@@ -1,0 +1,6 @@
+# Your real prospect batches stay local
+*.csv
+!examples/*.csv
+rows*.json
+!examples/sample-rows.json
+.env
