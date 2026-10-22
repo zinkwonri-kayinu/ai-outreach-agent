@@ -23,7 +23,7 @@
 | 12 | Saving money or time | Only when the saving is substantial (e.g. wasted Clay credits, an SDR doing hours of manual research). Never for marginal productivity gains. |
 | 13 | A new mechanism | Something genuinely unfamiliar to them (e.g. job-change or hiring signals as triggers, which they clearly aren't using). |
 | 14 | An audit | Show a concrete, specific problem you already spotted and what to do about it. |
-| 15 | Hyper-research / case study | You understand their exact situation, or have a comparable result in `context/profile.md` (the sample profile maps recruiting, funding/investment and Clay-scoring prospects to a matching result). |
+| 15 | Hyper-research / case study | You understand their exact situation, or have a comparable result in `context/profile.md` (the sample profile maps funding/investment and Clay-scoring prospects to a matching result). |
 
 Each message combines one lead magnet (1-10) with one framing (11-15).
 

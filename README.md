@@ -69,7 +69,7 @@ There are 10 lead magnets and 5 framings ([full rubric](skill/references/offers.
 
 ### 5. Write two angles
 - **Problem-first**: names something specific it saw at their company, then offers the fix.
-- **Offer-first**: leads with what it'll build, then one credibility line matched to their industry (a recruiting prospect gets the recruiting result, a fintech gets the funding-outbound result).
+- **Offer-first**: leads with what it'll build, then one credibility line matched to their industry (a fintech gets the funding-outbound result, a Clay-heavy team gets the qualification result).
 
 Each angle gets an email under 80 words and a LinkedIn DM under 40.
 
